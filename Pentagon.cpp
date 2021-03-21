@@ -1,6 +1,3 @@
-//
-// Created by ilya on 13.10.2019.
-//
 
 #include "Pentagon.h"
 
